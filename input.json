@@ -1,7 +1,7 @@
 {
   "token": "token GH_TOKEN",
-  "unprotected_branches": [
-                    "SettingsOrg/Change-Name/branches/main",
+  "branches": {
+                  "unprotected_branches": [
                     "babithalog/Dependency-Check_Action/branches/failoncvss",
                     "babithalog/Dependency-Check_Action/branches/main",
                     "babithalog/DependencyCheck/branches/main",
@@ -13,6 +13,8 @@
                     "babithalog/argocd-example-apps-1/branches/patch-2",
                     "babithalog/argocd-example-apps-1/branches/patch-3",
                     "babithalog/argocd-example-apps-1/branches/update-app",
-                    "babithalog/docker-react/branches/master"
+                    "babithalog/docker-react/branches/master",
+                    "babithalog/gitgat/branches/master"
                   ]
+                }
 }
