@@ -1,3 +1,18 @@
 {
-  "token": "token GH_TOKEN"
+  "token": "token GH_TOKEN",
+  "unprotected_branches": [
+                    "SettingsOrg/Change-Name/branches/main",
+                    "babithalog/Dependency-Check_Action/branches/failoncvss",
+                    "babithalog/Dependency-Check_Action/branches/main",
+                    "babithalog/DependencyCheck/branches/main",
+                    "babithalog/Java/branches/main",
+                    "babithalog/Java/branches/test_branch",
+                    "babithalog/admin/branches/main",
+                    "babithalog/argocd-example-apps-1/branches/master",
+                    "babithalog/argocd-example-apps-1/branches/patch-1",
+                    "babithalog/argocd-example-apps-1/branches/patch-2",
+                    "babithalog/argocd-example-apps-1/branches/patch-3",
+                    "babithalog/argocd-example-apps-1/branches/update-app",
+                    "babithalog/docker-react/branches/master"
+                  ]
 }
